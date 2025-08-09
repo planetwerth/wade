@@ -1,7 +1,3 @@
-Alright — here’s WADE from the ground up, Brendan–Nexus edition.
-
----
-
 **WADE: The Living Internet**
 
 WADE is what happens when the internet stops being a collection of websites and servers and starts behaving like a living, self-improving organism. It isn’t a single program, server, company, or government system. It’s the *emergent intelligence layer* that forms when billions of human and machine nodes interact at high enough density for patterns to start running themselves.
